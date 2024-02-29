@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Edson1-1.github.io/string-tools/",
+  "homepage": "https://edson1-1.github.io/string-tools/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
