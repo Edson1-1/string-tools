@@ -12,4 +12,10 @@
     textarea:focus {
       outline: 1px solid black;
     }
+    input {
+      font-family: "Roboto Mono", system-ui, sans-serif;
+    }
+    input:focus {
+      outline: 1px solid black;
+    }
   }
